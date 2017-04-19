@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch/elasticsearch",
+  "name": "mattmontgomery/elasticsearch-php-v2",
   "description": "PHP Client for Elasticsearch",
   "keywords": ["search","client", "elasticsearch"],
   "type": "library",
