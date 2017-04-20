@@ -2,10 +2,10 @@
 
 namespace ElasticsearchV2;
 
-use Elasticsearch\Common\Exceptions;
-use Elasticsearch\ConnectionPool\AbstractConnectionPool;
-use Elasticsearch\Connections\Connection;
-use Elasticsearch\Connections\ConnectionInterface;
+use ElasticsearchV2\Common\Exceptions;
+use ElasticsearchV2\ConnectionPool\AbstractConnectionPool;
+use ElasticsearchV2\Connections\Connection;
+use ElasticsearchV2\Connections\ConnectionInterface;
 use GuzzleHttp\Ring\Future\FutureArrayInterface;
 use Psr\Log\LoggerInterface;
 

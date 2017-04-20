@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Serializers;
 
-use Elasticsearch\Common\Exceptions\Serializer\JsonErrorException;
+use ElasticsearchV2\Common\Exceptions\Serializer\JsonErrorException;
 
 /**
  * Class SmartSerializer

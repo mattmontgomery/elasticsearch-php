@@ -2,10 +2,10 @@
 
 namespace ElasticsearchV2\Namespaces;
 
-use Elasticsearch\Common\Exceptions\Missing404Exception;
-use Elasticsearch\Common\Exceptions\RoutingMissingException;
-use Elasticsearch\Endpoints\AbstractEndpoint;
-use Elasticsearch\Transport;
+use ElasticsearchV2\Common\Exceptions\Missing404Exception;
+use ElasticsearchV2\Common\Exceptions\RoutingMissingException;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Transport;
 use GuzzleHttp\Ring\Future\FutureArrayInterface;
 
 /**

@@ -2,10 +2,10 @@
 
 namespace ElasticsearchV2\Namespaces;
 
-use Elasticsearch\Endpoints\Ingest\Pipeline\Delete;
-use Elasticsearch\Endpoints\Ingest\Pipeline\Get;
-use Elasticsearch\Endpoints\Ingest\Pipeline\Put;
-use Elasticsearch\Endpoints\Ingest\Simulate;
+use ElasticsearchV2\Endpoints\Ingest\Pipeline\Delete;
+use ElasticsearchV2\Endpoints\Ingest\Pipeline\Get;
+use ElasticsearchV2\Endpoints\Ingest\Pipeline\Put;
+use ElasticsearchV2\Endpoints\Ingest\Simulate;
 
 /**
  * Class IngestNamespace

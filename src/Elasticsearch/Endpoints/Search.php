@@ -2,8 +2,8 @@
 
 namespace ElasticsearchV2\Endpoints;
 
-use Elasticsearch\Common\Exceptions\InvalidArgumentException;
-use Elasticsearch\Common\Exceptions;
+use ElasticsearchV2\Common\Exceptions\InvalidArgumentException;
+use ElasticsearchV2\Common\Exceptions;
 
 /**
  * Class Search

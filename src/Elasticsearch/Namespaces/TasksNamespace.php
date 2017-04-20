@@ -2,8 +2,8 @@
 
 namespace ElasticsearchV2\Namespaces;
 
-use Elasticsearch\Endpoints\Tasks\Cancel;
-use Elasticsearch\Endpoints\Tasks\Get;
+use ElasticsearchV2\Endpoints\Tasks\Cancel;
+use ElasticsearchV2\Endpoints\Tasks\Get;
 
 /**
  * Class TasksNamespace

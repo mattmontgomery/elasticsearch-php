@@ -2,8 +2,8 @@
 
 namespace ElasticsearchV2\Namespaces;
 
-use Elasticsearch\Endpoints\AbstractEndpoint;
-use Elasticsearch\Transport;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Transport;
 
 /**
  * Class AbstractNamespace

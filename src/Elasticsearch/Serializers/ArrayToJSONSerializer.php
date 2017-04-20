@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Serializers;
 
-use Elasticsearch\Common\Exceptions\RuntimeException;
+use ElasticsearchV2\Common\Exceptions\RuntimeException;
 
 /**
  * Class JSONSerializer

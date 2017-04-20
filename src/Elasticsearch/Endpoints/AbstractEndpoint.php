@@ -2,9 +2,9 @@
 
 namespace ElasticsearchV2\Endpoints;
 
-use Elasticsearch\Common\Exceptions\UnexpectedValueException;
-use Elasticsearch\Serializers\SerializerInterface;
-use Elasticsearch\Transport;
+use ElasticsearchV2\Common\Exceptions\UnexpectedValueException;
+use ElasticsearchV2\Serializers\SerializerInterface;
+use ElasticsearchV2\Transport;
 use Exception;
 use GuzzleHttp\Ring\Future\FutureArrayInterface;
 

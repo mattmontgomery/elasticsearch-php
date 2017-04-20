@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Endpoints;
 
-use Elasticsearch\Common\Exceptions;
+use ElasticsearchV2\Common\Exceptions;
 
 /**
  * Class CountPercolate

@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Helper\Iterators;
 
-use ElasticSearch\Client;
+use ElasticsearchV2\Client;
 use Iterator;
 
 /**

@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Connections;
 
-use Elasticsearch\Serializers\SerializerInterface;
+use ElasticsearchV2\Serializers\SerializerInterface;
 use Psr\Log\LoggerInterface;
 
 /**

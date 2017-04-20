@@ -2,11 +2,11 @@
 
 namespace ElasticsearchV2\ConnectionPool;
 
-use Elasticsearch\Common\Exceptions\InvalidArgumentException;
-use Elasticsearch\ConnectionPool\Selectors\SelectorInterface;
-use Elasticsearch\Connections\Connection;
-use Elasticsearch\Connections\ConnectionFactoryInterface;
-use Elasticsearch\Connections\ConnectionInterface;
+use ElasticsearchV2\Common\Exceptions\InvalidArgumentException;
+use ElasticsearchV2\ConnectionPool\Selectors\SelectorInterface;
+use ElasticsearchV2\Connections\Connection;
+use ElasticsearchV2\Connections\ConnectionFactoryInterface;
+use ElasticsearchV2\Connections\ConnectionInterface;
 
 /**
  * Class AbstractConnectionPool

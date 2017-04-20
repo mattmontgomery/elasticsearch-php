@@ -2,8 +2,8 @@
 
 namespace ElasticsearchV2\Endpoints\Cat;
 
-use Elasticsearch\Common\Exceptions\RuntimeException;
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions\RuntimeException;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class Snapshots

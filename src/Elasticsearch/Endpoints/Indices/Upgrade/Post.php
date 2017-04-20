@@ -7,8 +7,8 @@
 
 namespace ElasticsearchV2\Endpoints\Indices\Upgrade;
 
-use Elasticsearch\Endpoints\AbstractEndpoint;
-use Elasticsearch\Common\Exceptions;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions;
 
 /**
  * Class Post

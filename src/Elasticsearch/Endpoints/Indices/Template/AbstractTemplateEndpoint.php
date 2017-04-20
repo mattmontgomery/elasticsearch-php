@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Endpoints\Indices\Template;
 
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class AbstractTemplateEndpoint

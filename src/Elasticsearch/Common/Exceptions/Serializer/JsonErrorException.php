@@ -2,7 +2,7 @@
 
 namespace ElasticsearchV2\Common\Exceptions\Serializer;
 
-use Elasticsearch\Common\Exceptions\ElasticsearchException;
+use ElasticsearchV2\Common\Exceptions\ElasticsearchException;
 
 /**
  * Class JsonErrorException

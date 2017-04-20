@@ -2,8 +2,8 @@
 
 namespace ElasticsearchV2\Endpoints\Indices\Validate;
 
-use Elasticsearch\Endpoints\AbstractEndpoint;
-use Elasticsearch\Common\Exceptions;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions;
 
 /**
  * Class Query
