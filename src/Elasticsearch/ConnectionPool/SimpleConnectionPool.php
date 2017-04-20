@@ -1,10 +1,10 @@
 <?php
 
-namespace Elasticsearch\ConnectionPool;
+namespace ElasticsearchV2\ConnectionPool;
 
-use Elasticsearch\ConnectionPool\Selectors\SelectorInterface;
-use Elasticsearch\Connections\Connection;
-use Elasticsearch\Connections\ConnectionFactoryInterface;
+use ElasticsearchV2\ConnectionPool\Selectors\SelectorInterface;
+use ElasticsearchV2\Connections\Connection;
+use ElasticsearchV2\Connections\ConnectionFactoryInterface;
 
 class SimpleConnectionPool extends AbstractConnectionPool implements ConnectionPoolInterface
 {

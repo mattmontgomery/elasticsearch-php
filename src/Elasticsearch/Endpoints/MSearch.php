@@ -1,10 +1,10 @@
 <?php
 
-namespace Elasticsearch\Endpoints;
+namespace ElasticsearchV2\Endpoints;
 
-use Elasticsearch\Common\Exceptions;
-use Elasticsearch\Serializers\SerializerInterface;
-use Elasticsearch\Transport;
+use ElasticsearchV2\Common\Exceptions;
+use ElasticsearchV2\Serializers\SerializerInterface;
+use ElasticsearchV2\Transport;
 
 /**
  * Class MSearch

@@ -1,9 +1,9 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Template;
+namespace ElasticsearchV2\Endpoints\Template;
 
-use Elasticsearch\Common\Exceptions;
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class Delete

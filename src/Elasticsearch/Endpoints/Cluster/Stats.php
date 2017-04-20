@@ -1,8 +1,8 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Cluster;
+namespace ElasticsearchV2\Endpoints\Cluster;
 
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class Stats

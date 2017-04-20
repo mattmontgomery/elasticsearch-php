@@ -1,9 +1,9 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Settings;
+namespace ElasticsearchV2\Endpoints\Indices\Settings;
 
-use Elasticsearch\Common\Exceptions;
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class Put

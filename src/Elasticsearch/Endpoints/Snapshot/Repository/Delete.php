@@ -1,9 +1,9 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Snapshot\Repository;
+namespace ElasticsearchV2\Endpoints\Snapshot\Repository;
 
-use Elasticsearch\Common\Exceptions;
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class Delete

@@ -1,8 +1,8 @@
 <?php
 
-namespace Elasticsearch\Namespaces;
+namespace ElasticsearchV2\Namespaces;
 
-use Elasticsearch\Transport;
+use ElasticsearchV2\Transport;
 
 /**
  * Class AbstractNamespace

@@ -1,9 +1,9 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Nodes;
+namespace ElasticsearchV2\Endpoints\Nodes;
 
-use Elasticsearch\Common\Exceptions\InvalidArgumentException;
-use Elasticsearch\Endpoints\AbstractEndpoint;
+use ElasticsearchV2\Common\Exceptions\InvalidArgumentException;
+use ElasticsearchV2\Endpoints\AbstractEndpoint;
 
 /**
  * Class AbstractNodesEndpoint

@@ -1,18 +1,18 @@
 <?php
 
-namespace Elasticsearch;
+namespace ElasticsearchV2;
 
-use Elasticsearch\Common\Exceptions\InvalidArgumentException;
-use Elasticsearch\Common\Exceptions\RuntimeException;
-use Elasticsearch\ConnectionPool\AbstractConnectionPool;
-use Elasticsearch\ConnectionPool\Selectors\SelectorInterface;
-use Elasticsearch\ConnectionPool\StaticNoPingConnectionPool;
-use Elasticsearch\Connections\Connection;
-use Elasticsearch\Connections\ConnectionFactory;
-use Elasticsearch\Connections\ConnectionFactoryInterface;
-use Elasticsearch\Serializers\SerializerInterface;
-use Elasticsearch\ConnectionPool\Selectors;
-use Elasticsearch\Serializers\SmartSerializer;
+use ElasticsearchV2\Common\Exceptions\InvalidArgumentException;
+use ElasticsearchV2\Common\Exceptions\RuntimeException;
+use ElasticsearchV2\ConnectionPool\AbstractConnectionPool;
+use ElasticsearchV2\ConnectionPool\Selectors\SelectorInterface;
+use ElasticsearchV2\ConnectionPool\StaticNoPingConnectionPool;
+use ElasticsearchV2\Connections\Connection;
+use ElasticsearchV2\Connections\ConnectionFactory;
+use ElasticsearchV2\Connections\ConnectionFactoryInterface;
+use ElasticsearchV2\Serializers\SerializerInterface;
+use ElasticsearchV2\ConnectionPool\Selectors;
+use ElasticsearchV2\Serializers\SmartSerializer;
 use GuzzleHttp\Ring\Client\CurlHandler;
 use GuzzleHttp\Ring\Client\CurlMultiHandler;
 use GuzzleHttp\Ring\Client\Middleware;

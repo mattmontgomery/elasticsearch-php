@@ -1,17 +1,17 @@
 <?php
 
-namespace Elasticsearch;
+namespace ElasticsearchV2;
 
-use Elasticsearch\Common\Exceptions\InvalidArgumentException;
-use Elasticsearch\Common\Exceptions\Missing404Exception;
-use Elasticsearch\Common\Exceptions\TransportException;
-use Elasticsearch\Namespaces\BooleanRequestWrapper;
-use Elasticsearch\Namespaces\CatNamespace;
-use Elasticsearch\Namespaces\ClusterNamespace;
-use Elasticsearch\Namespaces\IndicesNamespace;
-use Elasticsearch\Namespaces\NodesNamespace;
-use Elasticsearch\Namespaces\SnapshotNamespace;
-use Elasticsearch\Namespaces\TasksNamespace;
+use ElasticsearchV2\Common\Exceptions\InvalidArgumentException;
+use ElasticsearchV2\Common\Exceptions\Missing404Exception;
+use ElasticsearchV2\Common\Exceptions\TransportException;
+use ElasticsearchV2\Namespaces\BooleanRequestWrapper;
+use ElasticsearchV2\Namespaces\CatNamespace;
+use ElasticsearchV2\Namespaces\ClusterNamespace;
+use ElasticsearchV2\Namespaces\IndicesNamespace;
+use ElasticsearchV2\Namespaces\NodesNamespace;
+use ElasticsearchV2\Namespaces\SnapshotNamespace;
+use ElasticsearchV2\Namespaces\TasksNamespace;
 
 /**
  * Class Client
