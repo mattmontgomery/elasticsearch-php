@@ -9,7 +9,7 @@
  * @link     http://elastic.co
  */
 
-namespace Elasticsearch\Namespaces;
+namespace ElasticsearchV2\Namespaces;
 
 
 use Elasticsearch\Serializers\SerializerInterface;

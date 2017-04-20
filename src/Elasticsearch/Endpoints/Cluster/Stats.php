@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Cluster;
+namespace ElasticsearchV2\Endpoints\Cluster;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

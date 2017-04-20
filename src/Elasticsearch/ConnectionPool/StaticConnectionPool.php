@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\ConnectionPool;
+namespace ElasticsearchV2\ConnectionPool;
 
 use Elasticsearch\Common\Exceptions\NoNodesAvailableException;
 use Elasticsearch\ConnectionPool\Selectors\SelectorInterface;

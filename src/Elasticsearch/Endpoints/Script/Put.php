@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Script;
+namespace ElasticsearchV2\Endpoints\Script;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 use Elasticsearch\Common\Exceptions;

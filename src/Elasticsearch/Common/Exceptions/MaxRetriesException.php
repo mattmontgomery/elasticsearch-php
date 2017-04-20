@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Common\Exceptions;
+namespace ElasticsearchV2\Common\Exceptions;
 
 /**
  * MaxRetriesException

@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Ingest\Pipeline;
+namespace ElasticsearchV2\Endpoints\Ingest\Pipeline;
 
 use Elasticsearch\Common\Exceptions;
 use Elasticsearch\Endpoints\AbstractEndpoint;

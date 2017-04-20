@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Aliases;
+namespace ElasticsearchV2\Endpoints\Indices\Aliases;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 use Elasticsearch\Common\Exceptions;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Connections;
+namespace ElasticsearchV2\Connections;
 
 use Elasticsearch\Serializers\SerializerInterface;
 use Psr\Log\LoggerInterface;

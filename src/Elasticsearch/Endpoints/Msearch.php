@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints;
+namespace ElasticsearchV2\Endpoints;
 
 use Elasticsearch\Common\Exceptions;
 use Elasticsearch\Serializers\SerializerInterface;

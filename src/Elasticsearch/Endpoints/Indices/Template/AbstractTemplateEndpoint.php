@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Template;
+namespace ElasticsearchV2\Endpoints\Indices\Template;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

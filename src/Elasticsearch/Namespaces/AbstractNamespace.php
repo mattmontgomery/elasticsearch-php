@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Namespaces;
+namespace ElasticsearchV2\Namespaces;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 use Elasticsearch\Transport;

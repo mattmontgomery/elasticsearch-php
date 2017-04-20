@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Common\Exceptions\Serializer;
+namespace ElasticsearchV2\Common\Exceptions\Serializer;
 
 use Elasticsearch\Common\Exceptions\ElasticsearchException;
 

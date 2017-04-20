@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Alias;
+namespace ElasticsearchV2\Endpoints\Indices\Alias;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

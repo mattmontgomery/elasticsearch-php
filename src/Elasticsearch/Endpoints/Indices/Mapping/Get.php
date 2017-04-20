@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Mapping;
+namespace ElasticsearchV2\Endpoints\Indices\Mapping;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

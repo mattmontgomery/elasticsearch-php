@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Common\Exceptions;
+namespace ElasticsearchV2\Common\Exceptions;
 
 /**
  * Conflict409Exception, thrown on 409 conflict http error

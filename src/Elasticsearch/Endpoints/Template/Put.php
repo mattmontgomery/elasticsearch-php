@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Template;
+namespace ElasticsearchV2\Endpoints\Template;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 use Elasticsearch\Common\Exceptions;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch;
+namespace ElasticsearchV2;
 
 use Elasticsearch\Common\Exceptions;
 use Elasticsearch\ConnectionPool\AbstractConnectionPool;

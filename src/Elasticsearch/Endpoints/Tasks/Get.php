@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Tasks;
+namespace ElasticsearchV2\Endpoints\Tasks;
 
 use Elasticsearch\Common\Exceptions;
 use Elasticsearch\Endpoints\AbstractEndpoint;

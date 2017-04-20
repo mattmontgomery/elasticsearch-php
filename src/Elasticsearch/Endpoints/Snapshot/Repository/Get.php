@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Snapshot\Repository;
+namespace ElasticsearchV2\Endpoints\Snapshot\Repository;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Cluster\Nodes;
+namespace ElasticsearchV2\Endpoints\Cluster\Nodes;
 
 use Elasticsearch\Common\Exceptions\InvalidArgumentException;
 use Elasticsearch\Endpoints\AbstractEndpoint;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Gateway;
+namespace ElasticsearchV2\Endpoints\Indices\Gateway;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

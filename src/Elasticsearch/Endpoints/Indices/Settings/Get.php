@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Indices\Settings;
+namespace ElasticsearchV2\Endpoints\Indices\Settings;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 

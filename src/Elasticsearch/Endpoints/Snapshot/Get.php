@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Snapshot;
+namespace ElasticsearchV2\Endpoints\Snapshot;
 
 use Elasticsearch\Endpoints\AbstractEndpoint;
 use Elasticsearch\Common\Exceptions;

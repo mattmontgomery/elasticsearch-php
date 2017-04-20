@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Endpoints\Cat;
+namespace ElasticsearchV2\Endpoints\Cat;
 
 use Elasticsearch\Common\Exceptions\RuntimeException;
 use Elasticsearch\Endpoints\AbstractEndpoint;

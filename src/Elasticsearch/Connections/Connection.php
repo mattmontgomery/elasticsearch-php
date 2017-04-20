@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Connections;
+namespace ElasticsearchV2\Connections;
 
 use Elasticsearch\Common\Exceptions\AlreadyExpiredException;
 use Elasticsearch\Common\Exceptions\BadRequest400Exception;

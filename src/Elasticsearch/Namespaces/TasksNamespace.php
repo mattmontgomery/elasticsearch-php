@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Namespaces;
+namespace ElasticsearchV2\Namespaces;
 
 use Elasticsearch\Endpoints\Tasks\Cancel;
 use Elasticsearch\Endpoints\Tasks\Get;

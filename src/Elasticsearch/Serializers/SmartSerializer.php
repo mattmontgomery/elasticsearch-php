@@ -1,6 +1,6 @@
 <?php
 
-namespace Elasticsearch\Serializers;
+namespace ElasticsearchV2\Serializers;
 
 use Elasticsearch\Common\Exceptions\Serializer\JsonErrorException;
 
